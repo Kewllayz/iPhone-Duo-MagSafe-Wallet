@@ -25,7 +25,7 @@ Tools and materials
   • A few standard cards for test fitting
   
 Trimming the Apple wallet into an insert
-The insert is the wallet's magnet back panel cut free along both long seams, then shortened to 84 mm (3.31 in) at the spring-tab end. The far end keeps Apple's original rounded corners. These steps are reconstructed from the photos of the finished insert.
+The insert is the wallet's magnet back panel cut free along both long seams, then shortened to 84 mm (3.31 in) at the spring-tab end. 
   1. Free the back panel. Cut along both long edges, just inside the seam where the front card pocket joins the back panel. Use several light passes with a fresh blade.     Keep the full panel width; it should come out about 63 mm (2.48 in) wide.
   2. Find the parts you must not cut. On the fabric-lined side you'll see the spring tab (a trapezoid flap) near one end, the oblong hole in the middle, and a raised U-shape around the hole. Run a steel paperclip over the panel to feel where the magnets are. Keep every cut clear of the magnets and the tab.
   3. Mark the length. Measure 84 mm (3.31 in) from the original rounded end, toward the spring-tab end. The mark should land about 3 mm (0.12 in) past the tab's narrow free end. If it lands closer than about 2 mm (0.08 in), cut a little longer and leave the tab's own cut lines intact.
