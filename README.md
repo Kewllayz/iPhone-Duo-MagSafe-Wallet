@@ -8,12 +8,18 @@ The finished wallet is 66.6 × 87.6 × 6.6 mm (2.62 × 3.45 × 0.26 in), holds 3
 
 Parts
   • Front tray and back plate: wallet_63x84_two_part.stl (both parts on one plate)
+  
   • Insert: back panel of an Apple MagSafe wallet, trimmed to 63 × 84 × 2 mm (2.48 × 3.31 × 0.08 in)
 Tools and materials
+
   • Sharp hobby knife with a fresh blade, and a metal ruler
+  
   • Calipers (or a good mm ruler)
+  
   • CA glue, gel type (for plastic to plastic) or regular PLA glue works
+
   • A flat, heavy object or two small clamps
+  
   • A few standard cards for test fitting
   
 Trimming the Apple wallet into an insert
