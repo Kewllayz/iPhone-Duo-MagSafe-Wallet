@@ -7,6 +7,7 @@ Overview
 The finished wallet is 66.6 × 87.6 × 6.6 mm (2.62 × 3.45 × 0.26 in), holds 3 cards upright, and fits inside the folded iPhone Duo's 84.1 × 117.8 mm (3.31 × 4.64 in) back. It reuses the magnet back panel of an old Apple MagSafe wallet, trimmed to 63 × 84 mm (2.48 × 3.31 in), so the magnets and its built-in spring tab keep working.
 
 Parts
+
   • Front tray and back plate: wallet_63x84_two_part.stl (both parts on one plate)
   
   • Insert: back panel of an Apple MagSafe wallet, trimmed to 63 × 84 × 2 mm (2.48 × 3.31 × 0.08 in)
