@@ -1,6 +1,6 @@
 # iPhone-Duo-MagSafe-Wallet
 Instructions and files for the a 3d printed wallet that uses a trimmed back panel from an existing Apple MagSafe Wallet.
-Below are instruction on how to do this. I used AI to help me make the instructions. I know, I know, but I wanted to share and not spend a ton of time writing it all up. 
+Below are instructions on how to do this. I used AI to help me make the instructions. I know, I know, but I wanted to share and not spend a ton of time writing it all up. 
 This will fit about 2-3 cards. 
 
 iPhone Duo MagSafe Wallet — Insert Trimming & Assembly
