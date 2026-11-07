@@ -11,6 +11,7 @@ Parts
   • Front tray and back plate: wallet_63x84_two_part.stl (both parts on one plate)
   
   • Insert: back panel of an Apple MagSafe wallet, trimmed to 63 × 84 × 2 mm (2.48 × 3.31 × 0.08 in)
+
 Tools and materials
 
   • Sharp hobby knife with a fresh blade, and a metal ruler
